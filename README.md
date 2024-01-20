@@ -2,7 +2,7 @@
 
 Crie uma conta gratuita na Oracle Cloud, e provisione um cluster Kubernetes gerenciado (OKE) usando o Terraform de forma simples e rápida.
 
-## Oferta Especial #MêsDoKubernetes
+## Oferta Especial
 
 ### Criando uma conta gratuita na Oracle Cloud
 
